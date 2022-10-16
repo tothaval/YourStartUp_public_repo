@@ -52,7 +52,7 @@ fast edit user configuration in /bin/debug/files/ or /bin/release/files, i named
 4.
 where there is a scetchboard function with F2 savemode, there will be a folder /bin/debug/files/pictures or /bin/release/files/pictures
 5.
-if you want do develop or bugfix, open the solution file(check if debug mode is debug), f.e. in project version YourStartUp_v_1_11_NET_4_6 it would be YourStartUp_v_1_11_NET_4_6/yourstartup.sln
+if you want do develop or bugfix, open the solution file(check if debug mode is debug), f.e. in project version YourStartUp_v_1_14_NET_4_6 it would be YourStartUp_v_1_14_NET_4_6/yourstartup.sln
 6.
 developed in wpf and c#, using free version of ms visual studio 2019 ((thx to ms for a free ide.)
 
