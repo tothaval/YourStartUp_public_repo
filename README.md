@@ -1,3 +1,5 @@
+# YourStartup UserInterface(YS UI) public repository
+
 dev (/team())
 dev0: stephan kammel
 
@@ -6,9 +8,6 @@ time of creation(TOC): may - october 2022
 
 intention:
 offering an easy to use software, to handle file management, to assist others in their projects, to draw, to capture ideas and the daily necessities of life.
-
-
-# YourStartup UserInterface(YS UI) public repository
 
 YS UI is a versatile software designed to help users in their projects or hobbies.
 It started as a tool to open files and programs fast with a single click via a button.
