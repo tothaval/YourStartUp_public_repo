@@ -3,8 +3,8 @@
 dev (/team())
 dev0: stephan kammel
 
-version 0.9.8.1
-time of creation(TOC): may - november 2022
+version 0.9.8.7
+time of creation(TOC): may - december 2022
 
 intention:
 offering an easy to use software,
@@ -115,9 +115,12 @@ overview:
 
 - the project is in alpha stage, up until now, intensive testing was not possible, i identified and
 fixed most of the bugs standing in the way of a functional or in a way functional prototype
-- the project was only tested on 3-4 different machines
+- the project was up until now only tested on 3-4 different machines
 - if you have a laptop, use an external mouse, otherwise it will not be possible, to use ys ui to its full extend,
 since it needs the middle mouse button and i did not yet developed an alternative handling method for hardware with
 no mouse
 - read the info page, hit F1 to open it, i try to keep it up to date in terms of keys and key bindings
 - i did not yet had the time to update all tooltips
+
+- avoid version from december 4th if you want to work with ys ui because save and load functionality don't work in that version,
+it is quite experimental and i am not finished integrating the new ideas and solutions into the code. 
